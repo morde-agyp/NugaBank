@@ -3,3 +3,5 @@ notes.txt
 venv
 data/raw/*.csv 
 data/raw/*.zip
+data/parquet
+data/csv 
